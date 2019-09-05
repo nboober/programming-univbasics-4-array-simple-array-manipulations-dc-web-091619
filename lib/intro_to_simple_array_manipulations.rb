@@ -52,7 +52,9 @@ def using_uniq(array)
     
 end
 
-def 
+def using_flatten(array)
+  
+  array.flatten
     
 end
 
